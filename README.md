@@ -21,7 +21,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true" />
     </a>
     <a href="https://github.com/flashbots/flashbots-data-transparency">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=flashbots-data-transparency&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=flashbots-data-transparency&show_owner=false"/>
     </a>
 </p>
 
