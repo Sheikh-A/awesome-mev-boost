@@ -16,35 +16,22 @@
 
 ## Github Repositories
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/flashbots/mev-boost">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true" />
-    </a>
-    <a href="https://github.com/0xpanoramix/mev-boost-cli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true"/>
-    </a>
-    <a href="https://github.com/ralexstokes/mev-rs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true"/>
-    </a>
-    <a href="https://github.com/protolambda/mergemock">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=protolambda&repo=mergemock&show_owner=true"/>
     </a>
     <a href="https://github.com/flashbots/flashbots-data-transparency">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=flashbots-data-transparency&show_owner=true"/>
     </a>
-</p> -->
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost&show_owner=true)](https://github.com/flashbots/mev-boost)
+- *[MEV Boost Wiki Research](https://github.com/flashbots/mev-boost/wiki/Research)* by Flashbots
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=mev-boost/wiki/Research&show_owner=true)](https://github.com/flashbots/mev-boost/wiki/Research)
+- *[MEV Boost CLI](https://github.com/0xpanoramix/mev-boost-cli)* by 0xpanoramix
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xpanoramix&repo=mev-boost-cli&show_owner=true)](https://github.com/0xpanoramix/mev-boost-cli)
+- *[MEV-rs](https://github.com/ralexstokes/mev-rs)* by ralexstokes
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ralexstokes&repo=mev-rs&show_owner=true)](https://github.com/ralexstokes/mev-rs)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protolambda&repo=mergemock&show_owner=true)](https://github.com/protolambda/mergemock)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flashbots&repo=flashbots-data-transparency&show_owner=true)](https://github.com/flashbots/flashbots-data-transparency)
+- *[mergemock](https://github.com/protolambda/mergemock)* by protolambda
 
 
 ## Articles/Papers
